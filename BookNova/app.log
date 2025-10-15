@@ -1,2 +1,8 @@
 oct 14, 2025 6:46:18 P. M. com.libronova.dao.BookDaoImpl create
 INFORMACIÓN: [POST] Libro registrado exitosamente (ISBN: 312312)
+oct 15, 2025 5:32:19 P. M. com.libronova.dao.impl.BookDaoImpl create
+INFORMACIÓN: [POST] Libro registrado exitosamente (ISBN: TEST-1760567539378)
+oct 15, 2025 5:34:35 P. M. com.libronova.dao.impl.BookDaoImpl create
+INFORMACIÓN: [POST] Libro registrado exitosamente (ISBN: TEST-1760567675335)
+oct 15, 2025 5:35:00 P. M. com.libronova.dao.impl.BookDaoImpl create
+INFORMACIÓN: [POST] Libro registrado exitosamente (ISBN: TEST-1760567699980)
