@@ -95,7 +95,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>com.libronova.ui.MainMenu</mainClass>
+              <mainClass>com.libronova.Main</mainClass>
             </manifest>
           </archive>
         </configuration>
